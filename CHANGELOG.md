@@ -2,6 +2,26 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.6.0](https://github.com/StarCitizenTools/mediawiki-skins-Citizen/compare/v3.5.0...v3.6.0) (2025-07-31)
+
+
+### Features
+
+* **core:** ✨ add transition to sticky element ([291d266](https://github.com/StarCitizenTools/mediawiki-skins-Citizen/commit/291d266b9dcc9eafed5452eb29dc23b3d152d15e))
+* **core:** ✨ simplify and improve loading indicator styles ([3f95e54](https://github.com/StarCitizenTools/mediawiki-skins-Citizen/commit/3f95e5426210943dfaddb580aa7be91e93c2d09e))
+* **MultimediaViewer:** ✨ improve lightbox styles ([c97a259](https://github.com/StarCitizenTools/mediawiki-skins-Citizen/commit/c97a2594eca6f810113665efc7d3c58cee016a80))
+
+
+### Bug Fixes
+
+* **Codex:** 🐛 fix incorrect quiet button hover color for MW 1.44+ ([4cc33d2](https://github.com/StarCitizenTools/mediawiki-skins-Citizen/commit/4cc33d20a827fa5dbda0c448a72c14e8e1241875)), closes [#1105](https://github.com/StarCitizenTools/mediawiki-skins-Citizen/issues/1105)
+* **core:** 🐛 cast key to string when adding icons to menu items ([c574159](https://github.com/StarCitizenTools/mediawiki-skins-Citizen/commit/c5741595701273b60b16dd635048a0f6a5e3462e)), closes [#1103](https://github.com/StarCitizenTools/mediawiki-skins-Citizen/issues/1103)
+
+
+### Performance Improvements
+
+* **core:** ⚡️ rewrite collapsible section parser ([6a7c36c](https://github.com/StarCitizenTools/mediawiki-skins-Citizen/commit/6a7c36c40c49a1da47cd7f2ca3e83f872d73f162))
+
 ## [3.5.0](https://github.com/StarCitizenTools/mediawiki-skins-Citizen/compare/v3.4.0...v3.5.0) (2025-07-21)
 
 
